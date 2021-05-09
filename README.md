@@ -1,0 +1,1 @@
+# osu-now-playing-song-name-graber-script
